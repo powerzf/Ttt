@@ -1,5 +1,5 @@
 module Ttt
     export f
-    f(x) = 100x
+    f(x) = 2000x
 
 end
